@@ -265,6 +265,13 @@ img {
   margin-bottom: 8px;
 }
 
+.big-icon {
+  margin: 0 auto;
+  justify-content: center;
+  text-align: center;
+  height: auto;
+}
+
 .menu-subtitle {
 }
 
