@@ -314,6 +314,24 @@ img {
 
 .team-text {
 }
+
+.team-box-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 24px;
+  margin: 0 auto;
+}
+.team-box-item {
+  fill: #fff;
+}
+.team-box-svg {
+  display: block;
+  border: none;
+  border-radius: 50px;
+  background-color: #4d5ae5;
+}
 /* #endregion section team */
 
 /* #region section portfolio */
