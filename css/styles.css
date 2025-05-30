@@ -426,8 +426,12 @@ img {
   padding-top: 100px;
   padding-bottom: 100px;
 }
+.footer-container {
+  display: flex;
+}
 
 .footer-first-box {
+  margin-right: 120px;
 }
 
 .footer-logo {
@@ -459,7 +463,6 @@ img {
   flex-direction: column;
   align-items: baseline;
   max-width: 208px;
-  margin: 0 auto;
 }
 .footer-box-text {
   margin-bottom: 16px;
@@ -472,6 +475,10 @@ img {
   justify-content: center;
   align-items: center;
   margin-right: 100px;
+}
+
+.footer-special-list {
+  gap: 16px;
 }
 
 .fbl:hover,
