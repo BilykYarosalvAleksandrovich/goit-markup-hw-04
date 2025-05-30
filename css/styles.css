@@ -465,16 +465,12 @@ img {
   max-width: 208px;
 }
 .footer-box-text {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-  margin-right: 100px;
 }
 
 .footer-special-list {
