@@ -427,11 +427,11 @@ img {
   padding-bottom: 100px;
 }
 .footer-container {
+  align-items: baseline;
   display: flex;
 }
 
 .footer-first-box {
-  align-items: baseline;
   margin-right: 120px;
 }
 
