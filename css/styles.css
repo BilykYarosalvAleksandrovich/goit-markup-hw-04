@@ -431,6 +431,7 @@ img {
 }
 
 .footer-first-box {
+  align-items: baseline;
   margin-right: 120px;
 }
 
@@ -465,7 +466,7 @@ img {
   max-width: 208px;
 }
 .footer-box-text {
-  margin-bottom: 8px;
+  margin-bottom: 16px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
