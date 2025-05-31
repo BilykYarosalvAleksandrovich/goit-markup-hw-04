@@ -319,10 +319,11 @@ img {
 }
 
 .team-text {
+  margin-bottom: 8px;
 }
 
 .team-box-list {
-  padding-top: 8px;
+  margin-top: 8px;
   max-width: 232px;
   display: flex;
   align-items: center;
